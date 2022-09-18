@@ -1973,6 +1973,7 @@ from .urort import UrortIE
 from .urplay import URPlayIE
 from .usanetwork import USANetworkIE
 from .usatoday import USATodayIE
+from .useetv import UseeTVIE
 from .ustream import UstreamIE, UstreamChannelIE
 from .ustudio import (
     UstudioIE,
